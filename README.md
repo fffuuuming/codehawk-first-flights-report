@@ -6,3 +6,5 @@
 - Additionally, notes on some key findings, missed vulnerabilities, and lessons learned from each challenge are also included
   
 ## Report
+- [2025-07-orderbook](https://github.com/fffuuuming/codehawk-first-flights-report/blob/main/OrderBook-writeup.md)
+- [2025-07-beatland-festival](https://github.com/fffuuuming/codehawk-first-flights-report/blob/main/beatland-festival-writeup.md)

@@ -7,5 +7,6 @@
 - Competitor: [fffuuuming](https://profiles.cyfrin.io/u/fffuuuming)
   
 ## Report
-- [2025-07-orderbook](https://github.com/fffuuuming/codehawk-first-flights-report/blob/main/OrderBook-writeup.md)
-- [2025-07-beatland-festival](https://github.com/fffuuuming/codehawk-first-flights-report/blob/main/beatland-festival-writeup.md)
+- [2025-07-orderbook](https://github.com/fffuuuming/codehawk-first-flights-report/blob/main/OrderBook-writeup.md): 13th place
+- [2025-07-beatland-festival](https://github.com/fffuuuming/codehawk-first-flights-report/blob/main/beatland-festival-writeup.md): 29th place
+- [2025-07-last-man-standing](https://github.com/fffuuuming/codehawk-first-flights-report/blob/main/last-man-standing-writeup.md): 15th place
